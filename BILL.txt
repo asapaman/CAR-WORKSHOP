@@ -1,0 +1,15 @@
+----------------------------------
+		BILL
+----------------------------------
+Car Number:54554
+Name:AMAN
+Address:KJHGF
+Contact No.:8765432
+Zip-Code:7852
+Services availed:
+1.)Standard+ Car Service:Rs.3700
+Total Bill:Rs.3700
+Discount:0%(10% for amounts greater than Rs.10000)
+----------------------------------
+Final amount to be paid:Rs.3700
+----------------------------------

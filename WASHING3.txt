@@ -1,0 +1,16 @@
+|---------------------------------------------------------------------------------------------------------|
+|Car Washing			  Complete Cleaning	Interior Cleaning		Quick Wash	  |
+|													  |
+|Interior Vaccuming		  Yes			Yes				Yes		  |
+|Mats Cleaning			  Yes			Yes				Yes		  |
+|Dashboard Dressing		  Yes			Yes				Yes		  |
+|AC Vents Cleaning		  Yes			Yes				No		  |
+|Foam Based Interior Cleaning	  Yes			Yes				NO                |	
+|Top Wash			  Yes			No				Yes 		  |
+|Wax Polish			  Yes			No				Yes		  |
+|All Glass Cleaning		  Yes			No				No		  |
+|Trunk Cleaning			  Yes			No				No		  |
+|Exterior Spots & Mark Removal	  Yes			No				No		  |
+|---------------------------------------------------------------------------------------------------------|
+|Total:				  Rs.3000		Rs.1800				Rs.1100	          |
+|---------------------------------------------------------------------------------------------------------|

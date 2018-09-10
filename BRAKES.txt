@@ -1,0 +1,13 @@
+|-------------------------------------------|
+|Brake Service			  Service   |
+|					    |
+|Brake Cleaning			  Yes	    |
+|Brake Shoes Depth Check	  Yes	    |
+|Brake Disc Check	  	  Yes	    |
+|Brake Bleeding		  	  Yes	    |
+|Joints Greasing(If Required)	  Yes	    |	
+|Brake Fluid TopUp		  Yes       |
+|Major Parts Replacement	  No	    |
+|-------------------------------------------|
+|Total:				  Rs.1500   |
+|-------------------------------------------|

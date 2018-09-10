@@ -1,0 +1,15 @@
+|-------------------------------------------|
+|AC Service			  Alignment |
+|					    |
+|AC Gas Pressure Checkup	  Yes	    |
+|AC Cooling Test		  Yes	    |
+|AC Operations Checkup	  	  Yes	    |
+|AC Gas Top Up		  	  Yes	    |
+|Evaporator Cleaning		  Yes	    |	
+|Condenser Cleaning		  Yes       |
+|AC Gas Complete Replacement	  No	    |
+|AC Filter Replacement		  No        |
+|Dashboard Removal & Refitting    No	    |
+|-------------------------------------------|
+|Total:				  Rs.5000   |
+|-------------------------------------------|

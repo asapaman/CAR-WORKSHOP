@@ -1,0 +1,16 @@
+|---------------------------------------------------------------------------------------------------------|
+|Services			Express Service		Standard Service		Standard+ Service |
+|													  |
+|Engine Oil			Replace			Replace				Replace		  |
+|Engine Oil Filter		Replace			Replace				Replace		  |
+|Air Filter			-----			Clean				Clean		  |
+|AC Filter			-----			-----				Clean		  |
+|Brakes				-----			-----				Clean		  |
+|Fluids Check			Inspect			Inspect				Inspect		  |
+|Exterior Wash			-----			Yes				Yes		  |
+|Interior Cleaning		-----			------				Yes		  |
+|Wheel Alignment & Balancing	-----			------				Yes		  |
+|General Health Checkup		Yes			Yes				Yes		  |
+|---------------------------------------------------------------------------------------------------------|
+|Total:				Rs.1800			Rs.2400				Rs.3500		  |
+|---------------------------------------------------------------------------------------------------------|
